@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fc32a44-7b08-42e9-aacb-a4d262ab2052" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/psr-3/LoggerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psr-3/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/psr-3" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BV3K4jRZOo7t2OozsgbiQ3QSCx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary": "PHPUnit",
+    "last_opened_file_path": "D:/domains/localhost",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\domains\localhost" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\domains\localhost\electro" />
+      <recent name="D:\domains\localhost" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LoggerTest.testLog" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="LoggerTest" file="$PROJECT_DIR$/LoggerTest.php" method="testLog" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.LoggerTest.testLog" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fc32a44-7b08-42e9-aacb-a4d262ab2052" name="Changes" comment="" />
+      <created>1656977358104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656977358104</updated>
+      <workItem from="1656977359275" duration="644000" />
+      <workItem from="1656979557248" duration="2415000" />
+      <workItem from="1656982683824" duration="240000" />
+      <workItem from="1656983776570" duration="1159000" />
+      <workItem from="1657014661854" duration="8514000" />
+      <workItem from="1657051552758" duration="1077000" />
+      <workItem from="1657103563433" duration="15133000" />
+      <workItem from="1657137555555" duration="309000" />
+      <workItem from="1657137937453" duration="1159000" />
+      <workItem from="1657187227539" duration="3802000" />
+      <workItem from="1657221865702" duration="52000" />
+      <workItem from="1657313086207" duration="3288000" />
+      <workItem from="1657368844443" duration="39000" />
+      <workItem from="1657370326097" duration="7233000" />
+      <workItem from="1657440784406" duration="3742000" />
+      <workItem from="1657455963899" duration="807000" />
+      <workItem from="1657474778009" duration="1464000" />
+      <workItem from="1657477707270" duration="8476000" />
+      <workItem from="1657529536144" duration="15233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
